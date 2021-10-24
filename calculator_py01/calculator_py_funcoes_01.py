@@ -1,8 +1,9 @@
-# Developer: Karin Melissa
-# Date: 21/10/2021
-# e-mail: karin_melissa@hotmail.com
-# Version: 1.0
-# Project: Calculator defining functions
+__author__ = 'Karin Melissa Rodrigues Pimentel'
+__version__ = 1.0
+__manteiner__ = 'Karin Melissa Rodrigues Pimentel'
+__email__ = 'karin_melissa@hotmail.com'
+__status__ = 'Development'
+__last_atualization__ =  '24/10/2021'
 
 # Defining the functions
 def add(x, y):
